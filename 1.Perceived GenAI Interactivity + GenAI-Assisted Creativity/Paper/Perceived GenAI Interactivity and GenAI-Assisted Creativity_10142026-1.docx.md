@@ -55,6 +55,13 @@ Hancock and Feng’s (2026) nmax calculator was applied to evaluate whether the 
 A total of X university students from various universities in China will be recruited to voluntarily participate in this study. 
 
 # _1.3.3. Measures_ 
+Perceived GenAI Interactivity was measured with the Perceived Interactivity of Learner-AI Interaction Scale (Wang et al., 2025). This 17-item scale covers four dimensions: responsiveness (5 items), learner control (3 items), learning engagement (6 items), and personalization (3 items). Items were rated on a six-point Likert scale. The scale was developed with Chinese university students, and its Cronbach's alpha was 0.948 for the whole scale and ranged from 0.820 to 0.915 for the four dimensions (Wang et al., 2025). Because its learning engagement dimension may overlap with cognitive engagement, discriminant validity between the two constructs was checked.
+
+Flow Experience was measured with the six-item flow subscale from Tang (2026), which covers concentration, loss of track of time, smooth performance, clear next steps, a sense of control, and distraction by worry (reverse-coded). Items were reworded to refer to creative work with GenAI and rated on a five-point Likert scale (1 = strongly disagree, 5 = strongly agree).
+
+Cognitive Engagement was measured with the cognitive engagement subscale of the University Student Engagement Inventory (Maroco et al., 2016), reworded to refer to learning with GenAI tools and rated on a five-point Likert scale.
+
+GenAI-Assisted Creativity was measured with the AI-assisted Creativity Questionnaire (AICQ; Mok et al., 2025). This 16-item scale has three factors: AI-assisted functional creativity, AI-assisted visual artistic creativity, and AI-assisted ideational creativity, with Cronbach's alpha values of 0.95, 0.83, and 0.78, respectively (Mok et al., 2025). Participants reported how often they had engaged in each AI-assisted creative activity, from "never" to "10 times or more."
 
 _1.3.4. Data collection_ 
 
