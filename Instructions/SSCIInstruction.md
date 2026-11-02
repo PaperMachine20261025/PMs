@@ -5,13 +5,13 @@
 	- Part 3:Methodology(Chapter 3)10%
 	- Part 4:Findings and Discussions(Chapter 4-25%and Chapter 5-30%)
 	- **摘要200字；**
-	- **介绍1000字；**
+	- **介绍800字；**
 	- **文献综述1500字；**
-	- **研究方法1000字；**
-	- **结果1500字；**
+	- **研究方法1300字；**
+	- **结果1200字；**
 	- **讨论1300字；**
-	- **结论500字；**
-	- **总共：7000；**
+	- **结论300字；**
+	- **总共：6800；**
 - 2.综述性文章–Review study；Secondary data,二手数据,细分为Scoping review,Systematic review,meta analysis.字数为8-10k
 - 3.评论性文章–Commentary思辨文章.前瞻性观点,意见,评述字数不限
 - 4.书评–Book review书评的用意是针对近期出版的学术书籍发表观点和看法,字数1k-2k。
